@@ -3,7 +3,7 @@ from typing import List
 
 def get_requirements()->list[str]:
 
-    requirement_list=list[str] =[]
+    requirement_list : list[str] =[]
    
     return requirement_list
 
